@@ -1,0 +1,14 @@
+1,Piratesofthecaribbean,9
+2,sevendwarfminetrain,3
+3,SplashMountain,11
+4,Soaring,5
+5,SpaceshipEarth,15
+6,AllenFlyingSaucers,2
+7,RacknRollerCoaster,2
+8,SlinkiDogDash,2
+9,ToyStoryMania,8
+10,Dinosaur,3
+11,ExpeditionEverest,3
+12,Flightofpassage,5
+13,kilimanjaro,22
+14,NaviRiverJourney,5
